@@ -5,12 +5,8 @@ import { FaAngleDoubleRight } from 'react-icons/fa'
 const url = 'https://course-api.com/react-tabs-project'
 
 function App() {
-
-
-
-  
-  return (
-    <h2>Help me here</h2>
+ return (
+    <h4>Old Notes</h4>
   )
 }
 
