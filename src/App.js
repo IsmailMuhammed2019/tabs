@@ -5,6 +5,11 @@ import { FaAngleDoubleRight } from 'react-icons/fa'
 const url = 'https://course-api.com/react-tabs-project'
 
 function App() {
+  const [loading, setLoading] = useState(true)
+  const [value, setValue] = useState(0)
+  const [jobs, setJobs] = useState([])
+
+  
  return (
     <h4>Old Notes</h4>
   )
